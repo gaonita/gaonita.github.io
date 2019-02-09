@@ -1,0 +1,93 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dd33FF;
+    font-family: 'Major Mono Display', monospace;
+
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #dddd33;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+    ul.topnav li.right,
+    ul.topnav li {float: none;}
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #dddd33;
+    background-color: white;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #dddd33;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #dddd33;
+    border-top: none;
+    background-color: #dddd33;
+}
+
+/*Flexbox */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.flex-container > div {
+    background-color: #f1f1f1;
+    width: 40%;
+    margin: 40px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 18px;
+}
