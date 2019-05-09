@@ -44,7 +44,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="228" />
+          <entry key="css" value="238" />
           <entry key="html" value="652" />
           <entry key="js" value="5" />
           <entry key="json" value="12" />
@@ -53,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="228" />
+          <entry key="CSS" value="238" />
           <entry key="HTML" value="652" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="5" />
@@ -76,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="463" column="60" selection-start-line="463" selection-start-column="60" selection-end-line="463" selection-end-column="60" />
+            <state relative-caret-position="356">
+              <caret line="470" column="35" selection-start-line="470" selection-start-column="35" selection-end-line="470" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -188,7 +188,7 @@
       <workItem from="1551980131565" duration="1623000" />
       <workItem from="1552060885046" duration="653000" />
       <workItem from="1554724417797" duration="680000" />
-      <workItem from="1557423111278" duration="831000" />
+      <workItem from="1557423111278" duration="1358000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -201,7 +201,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20261000" />
+    <option name="totallyTimeSpent" value="20788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="26" width="1520" height="969" extended-state="0" />
@@ -342,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="463" column="60" selection-start-line="463" selection-start-column="60" selection-end-line="463" selection-end-column="60" />
+        <state relative-caret-position="356">
+          <caret line="470" column="35" selection-start-line="470" selection-start-column="35" selection-end-line="470" selection-end-column="35" />
         </state>
       </provider>
     </entry>

@@ -461,7 +461,7 @@ span {
     color: green;
 }
 
-@media (-webkit-min-device-pixel-ratio: 2.0) or (max-width:650px) {
+@media (max-width:768px) {
 
     #navbar{
         display: flex;
