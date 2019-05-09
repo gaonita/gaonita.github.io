@@ -436,9 +436,6 @@ span {
 }
 
 
-
-
-
 .contact {
     background: #feff5d;
     display: flex;
@@ -464,7 +461,7 @@ span {
     color: green;
 }
 
-@media (max-width:650px) {
+@media (-webkit-min-device-pixel-ratio: 2.0) or (max-width:650px) {
 
     #navbar{
         display: flex;
