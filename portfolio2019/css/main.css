@@ -546,3 +546,21 @@ span {
 
     }
 }
+
+
+.typeEffect {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background-color:#f6f6f6;
+    color:#000;
+    font-family: 'Neucha', cursive;
+}
+
+
+
+.typewrite > .wrap {
+    color: #000;
+    font-family: 'Neucha', cursive;
+}
