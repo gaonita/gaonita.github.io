@@ -40,12 +40,7 @@ section {
     width: 100%;
     /*height: 100vh;*/
 }
-/*.bottom {*/
-    /*position: absolute;*/
-    /*bottom: 0;*/
-    /*z-index: 1;*/
-    /*margin: 0;*/
-/*}*/
+
 .sticky {
     position: fixed;
     top: 0;
@@ -56,13 +51,13 @@ section {
     text-align: center;
     position: relative;
     width: 100%;
-    height: 95vh;
+    height: 100vh;
     padding-left: 10px;
-    padding-top: 40px;
+    /*padding-top: 10px;*/
 
 }
 .intro-text {
-    color: #000000;
+    color: yellowgreen;
     /*padding-top: 2px;*/
     padding-left: 10px;
     padding-right: 10px;
@@ -74,23 +69,18 @@ section {
     margin-right: 60%;
     width: 580px;
     height:580px;
-    /*background: #ffcf00;*/
-    /*border: 1px solid #000000;*/
     transition: transform 0.5s linear;
     transform: scale(1);
 }
 
 #profilepic {
-    margin-top: 50px;
-    width: 70%;
-    height: 70%;
-    border-radius: 50%;
-
+    width: 100%;
+    height: 100%;
 }
 
 
 .intro-headline:hover {
-    transform: scale(1.3);
+    transform: scale(1.2);
     font-size: 1.2em;
     background: #feff5d;
 
@@ -99,7 +89,7 @@ section {
 
 #LineTime{
 
-    padding-top: 20px;
+    padding-top: 60px;
     margin-left: 20%;
     margin-right: 10px;
     position: absolute;
