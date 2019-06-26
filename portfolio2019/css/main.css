@@ -65,7 +65,7 @@ section {
 .intro-headline {
 
     position: relative;
-    margin-top: 100px;
+    margin-top: 60px;
     margin-right: 60%;
     width: 580px;
     height:580px;
@@ -81,7 +81,7 @@ section {
 
 .intro-headline:hover {
     transform: scale(1.2);
-    font-size: 1.2em;
+    font-size: 1.0em;
     background: #feff5d;
 
 }
@@ -89,7 +89,7 @@ section {
 
 #LineTime{
 
-    padding-top: 60px;
+    padding-top: 80px;
     margin-left: 20%;
     margin-right: 10px;
     position: absolute;
