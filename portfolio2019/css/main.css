@@ -53,17 +53,15 @@ section {
     width: 100%;
     height: 100vh;
     padding-left: 10px;
-    /*padding-top: 10px;*/
 
 }
 .intro-text {
     color: yellowgreen;
-    /*padding-top: 2px;*/
     padding-left: 10px;
     padding-right: 10px;
 }
-.intro-headline {
 
+.intro-headline {
     position: relative;
     margin-top: 60px;
     margin-right: 60%;
@@ -309,6 +307,40 @@ span {
     .timeline-centered .period .timeline-title {
         left: auto;
     }
+}
+
+
+
+
+.container{
+    height: 100vh;
+    background: #feff5d;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hyperIntro{
+    width: 70vw;
+    height:20vh;
+}
+.hyperIntroText{
+    font-size: 20px;
+    color: darkseagreen;
+    padding-top: 80px;
+}
+
+.hyperImage{
+    width: 45vw;
+    height:50vh;
+    margin-bottom: 130px;
+    overflow: scroll;
+}
+
+.hyperDemo{
+    width: 100%;
+    height:100%;
 }
 
 #projects{
