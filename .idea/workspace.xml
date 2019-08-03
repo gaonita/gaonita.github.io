@@ -2,22 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0105.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0106.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/assessment0112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio2019/image/gaon-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio2019/image/gaon24.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ie/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ie/v8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-desktop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic12.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio2019/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,36 +47,37 @@
     <session id="1751931807">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
-          <entry key="html" value="10" />
-          <entry key="jpg" value="7" />
+          <entry key="css" value="4" />
+          <entry key="html" value="12" />
+          <entry key="jpg" value="13" />
           <entry key="js" value="9" />
           <entry key="json" value="2" />
+          <entry key="png" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
-          <entry key="HTML" value="10" />
-          <entry key="Image" value="7" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="12" />
+          <entry key="Image" value="16" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="686" />
-          <entry key="html" value="2325" />
+          <entry key="css" value="2155" />
+          <entry key="html" value="2680" />
           <entry key="js" value="6" />
           <entry key="json" value="12" />
           <entry key="txt" value="16" />
@@ -69,8 +85,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="686" />
-          <entry key="HTML" value="2325" />
+          <entry key="CSS" value="2155" />
+          <entry key="HTML" value="2680" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="16" />
@@ -83,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="98" column="14" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+            <state relative-caret-position="157">
+              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -92,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio2019/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -101,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="330" column="18" selection-start-line="330" selection-start-column="18" selection-end-line="330" selection-end-column="18" />
+            <state relative-caret-position="392">
+              <caret line="178" column="122" selection-start-line="178" selection-start-column="122" selection-end-line="178" selection-end-column="122" />
             </state>
           </provider>
         </entry>
@@ -112,6 +128,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>a</find>
+      <find>typee</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,9 +157,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="237" />
+    <option name="x" value="322" />
     <option name="y" value="26" />
-    <option name="width" value="1496" />
+    <option name="width" value="1358" />
     <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -162,30 +179,18 @@
             <path>
               <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="colorgame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio2019" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio2019" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio2019" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,15 +206,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/portfolio2019/image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio2019/image" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/passwordValidation" />
       <recent name="$PROJECT_DIR$/colorgame" />
       <recent name="$PROJECT_DIR$/makeimpact/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio2019/image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,7 +251,8 @@
       <workItem from="1560781935915" duration="3019000" />
       <workItem from="1561386977040" duration="1068000" />
       <workItem from="1561457865275" duration="1709000" />
-      <workItem from="1561569519540" duration="6922000" />
+      <workItem from="1561569519540" duration="7481000" />
+      <workItem from="1564738130676" duration="18064000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -259,13 +265,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37278000" />
+    <option name="totallyTimeSpent" value="55901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="237" y="26" width="1496" height="969" extended-state="0" />
+    <frame x="322" y="26" width="1358" height="969" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.1362712" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" weight="0.31653544" />
       <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.121157326" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,7 +283,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" visible="true" weight="0.23717217" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" visible="true" weight="0.23717217" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50030136" side_tool="true" weight="0.29489797" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -391,9 +397,6 @@
     <entry file="file://$PROJECT_DIR$/images/pic12.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/pic07.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -406,24 +409,63 @@
     <entry file="file://$PROJECT_DIR$/images/me.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="69" column="15" lean-forward="true" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio2019/image/assessment01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio2019/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1271" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/images/overlay.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/images/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio2019/image/assessment0112.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio2019/image/gaon-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio2019/image/gaonvector.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio2019/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="98" column="14" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+        <state relative-caret-position="157">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="330" column="18" selection-start-line="330" selection-start-column="18" selection-end-line="330" selection-end-column="18" />
+        <state relative-caret-position="392">
+          <caret line="178" column="122" selection-start-line="178" selection-start-column="122" selection-end-line="178" selection-end-column="122" />
         </state>
       </provider>
     </entry>
