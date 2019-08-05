@@ -236,7 +236,7 @@ section {
 
 
 .contact {
-    background: #feff5d;
+    background: #cccccc;
     display: flex;
     justify-content: space-evenly;
 }
@@ -256,8 +256,7 @@ section {
 }
 
 .contact-details:hover {
-    background: #ffffc0;
-    color: green;
+    color: #ffffc0;
 }
 
 
@@ -301,7 +300,6 @@ section {
 
 
     .project-container {
-        background: #e2f63b;
         display: flex;
         flex-direction: column;
         height: 75vh;
