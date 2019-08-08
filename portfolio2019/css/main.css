@@ -56,7 +56,7 @@ section {
 .introHead {
     color: salmon;
     font-size: 2.5em;
-    width: 400px;
+    width: 450px;
 }
 
 #profilepic {
@@ -180,7 +180,7 @@ section {
 }
 
 .portfolio-item.medium.random {
-    background-image: url("https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80");
+    background-image: url("https://images.unsplash.com/photo-1483213097419-365e22f0f258?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80");
 }
 
 .portfolio-item.large {
@@ -195,7 +195,13 @@ section {
 
 }
 
-.portfolio-item.wide {
+.portfolio-item.wide.patatap {
+     grid-row: span 2;
+     grid-column: span 3;
+    background-image: url("https://images.unsplash.com/photo-1527625881120-31bc9f6289f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80");
+ }
+
+.portfolio-item.wide.air {
      grid-row: span 2;
      grid-column: span 3;
     background-image: url("https://images.unsplash.com/photo-1503662549813-28954e75f215?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80");

@@ -29,6 +29,9 @@
  * created by Marijn Haverbeke and released under an MIT license.
  *
  */
+function alert() {
+    alert("Press any number key on your keyboard")
+};
 
 var paper = function(self, undefined) {
 

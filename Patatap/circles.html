@@ -7,6 +7,10 @@
 	<link rel="stylesheet" type="text/css" href="circles.css">
 	<script type="text/paperscript" canvas="myCanvas">
 
+	function alert() {
+    alert("Press any number key on your keyboard")
+}
+
 	var keyData = {
 		1: {
 			color: "purple",
@@ -63,7 +67,7 @@
 			})
 		}
 
-	}	
+	}
 
 
 	var circles = [];
@@ -79,19 +83,22 @@
 		circles.push(newCircle);
 		}
 	}
-		
+
 	function onFrame(event){
 		for(var i = 0; i < circles.length; i++){
 		circles[i].fillColor.hue +=1;
 		circles[i].scale(.9);
 		}
-	};	
-	
+	};
+
 
     </script>
 </head>
 <body>
-<canvas id="myCanvas" resize></canvas>
+<button onclick="alert()">Press number keys on your keyboard</button>
+
+<canvas id="myCanvas" resize>
+</canvas>
 </body>
 </html>
 

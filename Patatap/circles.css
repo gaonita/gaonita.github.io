@@ -8,3 +8,10 @@ body, html {
 	height: 100%;
 	margin: 0;
 }
+
+button {
+    background: #1a1a1d;
+    color: #cccccc;
+    width: 100vw;
+    text-decoration: none;
+}
