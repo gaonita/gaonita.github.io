@@ -1,25 +1,47 @@
 
 body {
     margin: 0;
-    font-family: 'Red Hat Text', sans-serif;
+    font-family: 'Press Start 2P', sans-serif;
 }
 
 a {
     text-decoration: none;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 section {
-    width: 100%;
-
+    width: 100vw;
 }
 
+#boom{
+    height: 100vh;
+}
+
+.message {
+    font-family: 'Press Start 2P', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 20;
+}
+
+.message.secret {
+    display: none;
+}
+
+#close {
+    color: rgb(255,255,255);
+}
+
+
+
+
 #navbar {
-    text-align: right;
-    background: #f2f2f2;
+    display: flex;
+    justify-content: flex-end;
+    background: rgba(159, 194, 248, 0.07);
     width: 100vw;
-    padding-top: 10px;
-    padding-bottom: 10px;
     overflow: hidden;
     z-index: 20;
 }
@@ -29,15 +51,24 @@ section {
     top: 0;
 }
 
+#logo{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -45px;
+}
+
 #navbar a {
     padding: 10px;
     margin: 3px;
-    color: #4e4e50;
+    color: #090913;
 }
 
 #navbar a:hover {
     font-weight: bolder;
+    color: #14e47cbf;
+
 }
+
 
 .intro {
     display: flex;
@@ -54,8 +85,8 @@ section {
 }
 
 .introHead {
-    color: salmon;
-    font-size: 2.5em;
+    color: #090913;
+    font-size: 1em;
     width: 450px;
 }
 
@@ -70,7 +101,7 @@ section {
     visibility: hidden;
     position: absolute;
     margin-left: -50px;
-    width: 70px;
+    width: 100px;
     background-color: #14e47cbf ;
     color: #4e4e50;
     text-align: center;
@@ -78,6 +109,7 @@ section {
     border: solid 2px #14e47c;
     padding: 5px 0;
     z-index: 1;
+    font-size: 0.7em;
 }
 
 .introImg:hover .tooltiptext {
@@ -86,7 +118,7 @@ section {
 
 .container{
     height: 50vh;
-    background: #f4f4f4;
+    background: rgba(159, 194, 248, 0.07);
     display: flex;
     align-items: center;
     align-content: center;
@@ -95,8 +127,8 @@ section {
 
 .hyperIntroText{
     width: 450px;
-    color: mediumpurple;
-    font-size: 1.5em;
+    color: #090913;
+    font-size: 1em;
 
 }
 
@@ -114,13 +146,15 @@ section {
 
 #projects{
     padding-top: 50px;
+    background: #f9f9f9;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .project-headline {
     font-size: 2em;
     font-weight: bold;
     text-align: center;
-    color: salmon;
+    color: #2c3e50 ;
 }
 
 .main-content {
@@ -241,8 +275,39 @@ section {
 }
 
 
+#contactSection{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #f9f9f9;
+
+
+}
+
+
+.typeEffect {
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    width: 600px;
+    background-color: #f9f9f9;
+    color:dimgray;
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+
+
+.typewrite > .wrap {
+    color: #090913;
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+
 .contact {
-    background: #cccccc;
+    background: rgba(159, 194, 248, 0.07);
     display: flex;
     justify-content: space-evenly;
 }
@@ -257,12 +322,12 @@ section {
     width: 350px;
     height: 50px;
     line-height: 100px;
-    color: black;
+    color: rgba(9, 9, 19, 0.84);
     text-decoration: none;
 }
 
 .contact-details:hover {
-    color: #ffffc0;
+    color: #14e47cbf;
 }
 
 
@@ -336,21 +401,3 @@ section {
     }
 }
 
-
-.typeEffect {
-    font-size: 2em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 30vh;
-    background-color:#f4f4f4;
-    color:dimgray;
-    font-family: 'Butterfly Kids', cursive;
-}
-
-
-
-.typewrite > .wrap {
-    color:dimgray;
-    font-family: 'Butterfly Kids', cursive;
-}
