@@ -96,11 +96,11 @@ PixelOverlay.prototype.init = function() {
 
     this.ctx.canvas.width  = this.width;
     this.ctx.canvas.height = this.height;
-}
+};
 
 PixelOverlay.prototype.drawRect = function(x, y, fill) {
     this.ctx.fillStyle = fill;
-    if (fill == 'clear') {
+    if (fill === 'clear') {
         this.ctx.clearRect(x,y, this.rectWidth, this.rectHeight)
     } else {
         this.ctx.fillRect(x, y, this.rectWidth, this.rectHeight)
@@ -128,7 +128,7 @@ PixelOverlay.prototype.spawnCircle = function(x, y, fill, finishColor, callback)
     var self = this;
 
     function draw(timestamp, finishColor, callback) {
-        if (fill == 'random') {
+        if (fill === 'random') {
             tempColor = randomColor({luminosity: 'bright'})
         } else {
             tempColor = fill;
@@ -137,7 +137,7 @@ PixelOverlay.prototype.spawnCircle = function(x, y, fill, finishColor, callback)
         self.distributeRects(x, y, 25 * count * offset , 4 * count, tempColor)
 
         if (self.checkDone(finishColor)) {
-            if (callback && typeof(callback) == "function") callback()
+            if (callback && typeof(callback) === "function") callback()
         } else {
             count++;
             requestAnimationFrame(function(timestamp) {

@@ -116,9 +116,26 @@ section {
     visibility: visible;
 }
 
+
+#scooterMe {
+    position: relative;
+    -webkit-animation: ride 3s infinite;
+    -webkit-animation-timing-function: ease-in;
+    -moz-animation-timing-function: ease-in;
+    -o-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+}
+
+@keyframes ride {
+    from {
+        left: -500px;}
+    to{left:500px;}
+}
+
+
 .container{
     height: 50vh;
-    background: rgba(159, 194, 248, 0.07);
+    background-color: #090913;
     display: flex;
     align-items: center;
     align-content: center;
@@ -127,7 +144,8 @@ section {
 
 .hyperIntroText{
     width: 450px;
-    color: #090913;
+    color: #fafafa;
+    line-height: 2;
     font-size: 1em;
 
 }
@@ -146,22 +164,41 @@ section {
 
 #projects{
     padding-top: 50px;
-    background: #f9f9f9;
-    font-family: 'Red Hat Text', sans-serif;
+    background: snow;
+    font-family: 'Press Start 2P', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .project-headline {
-    font-size: 2em;
+    font-size: 1em;
     font-weight: bold;
     text-align: center;
-    color: #2c3e50 ;
+    color: #090913;
 }
 
 .main-content {
-    padding-left: 10%;
-    padding-right: 10%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*padding-left: 10%;*/
+    /*padding-right: 10%;*/
     padding-bottom: 10%;
-    flex: 1 1 80%;
+    /*flex: 1 1 80%;*/
+}
+
+.main-content a:hover {
+    border-bottom: dashed 10px #090913;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.work {
+    padding: 10px;
 }
 
 
@@ -280,7 +317,7 @@ section {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color: #f9f9f9;
+    background-color: #090913;
 
 
 }
@@ -293,15 +330,15 @@ section {
     justify-content: center;
     height: 30vh;
     width: 600px;
-    background-color: #f9f9f9;
-    color:dimgray;
+    background-color: #090913;
+    color:#f9f9f9;
     font-family: 'Press Start 2P', sans-serif;
 }
 
 
 
 .typewrite > .wrap {
-    color: #090913;
+    color: #f9f9f9;
     font-family: 'Press Start 2P', sans-serif;
 }
 
@@ -322,7 +359,7 @@ section {
     width: 350px;
     height: 50px;
     line-height: 100px;
-    color: rgba(9, 9, 19, 0.84);
+    color: #f9f9f9;
     text-decoration: none;
 }
 
@@ -370,11 +407,18 @@ section {
     }
 
 
+    .main-content {
+
+        display: flex;
+        flex-wrap: wrap;
+    }
+
     .project-container {
         display: flex;
         flex-direction: column;
         height: 75vh;
     }
+
 
     .project {
         display: flex;
