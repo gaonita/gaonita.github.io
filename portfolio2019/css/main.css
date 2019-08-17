@@ -119,7 +119,7 @@ section {
 
 #scooterMe {
     position: relative;
-    -webkit-animation: ride 3s infinite;
+    -webkit-animation: ride 4s infinite;
     -webkit-animation-timing-function: ease-in;
     -moz-animation-timing-function: ease-in;
     -o-animation-timing-function: ease-in;
@@ -128,10 +128,13 @@ section {
 
 @keyframes ride {
     from {
-        left: -700px;}
+        left: -900px;}
     to{left:500px;}
 }
 
+#scooterMe:hover {
+    animation-play-state: paused;
+}
 
 .container{
     height: 50vh;
@@ -142,13 +145,30 @@ section {
     justify-content: center;
 }
 
-.hyperIntroText{
-    width: 450px;
-    color: #fafafa;
+.hyperIntro{
+    margin-left: 25px;
+    width: 500px;
     line-height: 2;
-    font-size: 1em;
-
+    font-size: 0.7em;
 }
+
+.hyperIntroText{
+    color: #fafafa;
+    animation-name: reveal;
+    animation-duration: 7s;
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    -o-animation-delay: 1s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes reveal {
+    0% {color: #090913;}
+    50% {color: dimgray;}
+    100% {color: #fafafa}
+}
+
 
 .hyperImage{
     margin: 10px;
