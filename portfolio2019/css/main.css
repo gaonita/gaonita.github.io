@@ -155,17 +155,17 @@ section {
 .hyperIntroText{
     color: #fafafa;
     animation-name: reveal;
-    animation-duration: 7s;
-    -webkit-animation-delay: 1s;
-    -moz-animation-delay: 1s;
-    -o-animation-delay: 1s;
-    animation-delay: 1s;
+    animation-duration: 4s;
+    /*-webkit-animation-delay: 1s;*/
+    /*-moz-animation-delay: 1s;*/
+    /*-o-animation-delay: 1s;*/
+    /*animation-delay: 1s;*/
     animation-iteration-count: infinite;
 }
 
 @keyframes reveal {
-    0% {color: #090913;}
-    50% {color: dimgray;}
+    0% {color: grey;}
+    50% {color: floralwhite;}
     100% {color: #fafafa}
 }
 
