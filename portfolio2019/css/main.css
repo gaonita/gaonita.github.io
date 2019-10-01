@@ -193,7 +193,7 @@ section {
 }
 
 .project-headline {
-    font-size: 1em;
+    font-size: 1.3em;
     font-weight: bold;
     text-align: center;
     color: #090913;
@@ -465,3 +465,7 @@ section {
     }
 }
 
+
+.reactTitle {
+    text-align: center;
+}

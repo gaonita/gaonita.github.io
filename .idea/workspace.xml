@@ -2,10 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/musicnotePixel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio2019/image/padlockpixel.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio2019/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (0).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (10).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (11).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (12).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (13).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (14).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (5).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (6).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (7).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (8).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (9).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0112.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,20 +48,20 @@
     <session id="1751931807">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.0" value="14" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bootstrap" value="1" />
           <entry key="css" value="6" />
-          <entry key="html" value="15" />
+          <entry key="html" value="16" />
           <entry key="jpg" value="13" />
           <entry key="js" value="14" />
           <entry key="json" value="2" />
@@ -43,7 +71,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="6" />
-          <entry key="HTML" value="15" />
+          <entry key="HTML" value="16" />
           <entry key="Image" value="18" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="14" />
@@ -53,8 +81,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bootstrap" value="3" />
-          <entry key="css" value="3371" />
-          <entry key="html" value="3472" />
+          <entry key="css" value="3388" />
+          <entry key="html" value="3619" />
           <entry key="js" value="475" />
           <entry key="json" value="12" />
           <entry key="txt" value="16" />
@@ -62,8 +90,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3371" />
-          <entry key="HTML" value="3472" />
+          <entry key="CSS" value="3388" />
+          <entry key="HTML" value="3619" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="475" />
           <entry key="PLAIN_TEXT" value="19" />
@@ -76,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+            <state relative-caret-position="292">
+              <caret line="190" column="24" lean-forward="true" selection-start-line="190" selection-start-column="24" selection-end-line="190" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -94,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+            <state relative-caret-position="345">
+              <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -138,9 +166,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="522" />
+    <option name="x" value="242" />
     <option name="y" value="23" />
-    <option name="width" value="1158" />
+    <option name="width" value="1438" />
     <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -194,15 +222,15 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio2019/image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio2019/image" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/passwordValidation" />
       <recent name="$PROJECT_DIR$/colorgame" />
       <recent name="$PROJECT_DIR$/makeimpact/js" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/portfolio2019/image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,7 +276,8 @@
       <workItem from="1565734164655" duration="11889000" />
       <workItem from="1565958993527" duration="11033000" />
       <workItem from="1566056892746" duration="3084000" />
-      <workItem from="1566480985850" duration="517000" />
+      <workItem from="1566480985850" duration="2104000" />
+      <workItem from="1569959576842" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -261,13 +290,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85754000" />
+    <option name="totallyTimeSpent" value="87835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="522" y="23" width="1158" height="972" extended-state="0" />
-    <editor active="true" />
+    <frame x="242" y="23" width="1438" height="972" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.124010555" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.17995766" />
       <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.121107265" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +307,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" visible="true" weight="0.22613636" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" visible="true" weight="0.22613636" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50030136" side_tool="true" weight="0.29489797" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -350,13 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passwordValidation/passwordstrength.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -439,6 +460,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/passwordValidation/passwordstrength.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio2019/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -448,15 +476,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+        <state relative-caret-position="292">
+          <caret line="190" column="24" lean-forward="true" selection-start-line="190" selection-start-column="24" selection-end-line="190" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+        <state relative-caret-position="345">
+          <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
         </state>
       </provider>
     </entry>
