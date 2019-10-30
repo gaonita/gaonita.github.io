@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio2019/image/padlockpixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio2019/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (0).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (10).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (11).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (12).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (13).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (14).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (5).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (6).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (7).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (8).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/Assessment period 2. Gaon Yang (9).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/assessment0112.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -48,7 +15,7 @@
     <session id="1751931807">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
@@ -122,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+            <state relative-caret-position="-356">
+              <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -134,6 +101,7 @@
     <findStrings>
       <find>a</find>
       <find>typee</find>
+      <find>projec</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -277,7 +245,7 @@
       <workItem from="1565958993527" duration="11033000" />
       <workItem from="1566056892746" duration="3084000" />
       <workItem from="1566480985850" duration="2104000" />
-      <workItem from="1569959576842" duration="494000" />
+      <workItem from="1569959576842" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -290,10 +258,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87835000" />
+    <option name="totallyTimeSpent" value="87999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="242" y="23" width="1438" height="972" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.17995766" />
       <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.121107265" />
@@ -483,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+        <state relative-caret-position="-356">
+          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
         </state>
       </provider>
     </entry>
