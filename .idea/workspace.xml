@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio2019/css/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,7 +31,7 @@
         <counts>
           <entry key="bootstrap" value="1" />
           <entry key="css" value="7" />
-          <entry key="html" value="21" />
+          <entry key="html" value="22" />
           <entry key="jpg" value="13" />
           <entry key="js" value="15" />
           <entry key="json" value="2" />
@@ -42,7 +41,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="7" />
-          <entry key="HTML" value="21" />
+          <entry key="HTML" value="22" />
           <entry key="Image" value="18" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="15" />
@@ -52,7 +51,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bootstrap" value="3" />
-          <entry key="css" value="3426" />
+          <entry key="css" value="3469" />
           <entry key="html" value="3718" />
           <entry key="js" value="475" />
           <entry key="json" value="12" />
@@ -61,7 +60,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3426" />
+          <entry key="CSS" value="3469" />
           <entry key="HTML" value="3718" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="475" />
@@ -75,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-704">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="717">
+              <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="299" column="18" selection-start-line="299" selection-start-column="18" selection-end-line="299" selection-end-column="18" />
+            <state relative-caret-position="622">
+              <caret line="383" column="5" selection-start-line="383" selection-start-column="5" selection-end-line="383" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -98,6 +97,7 @@
       <find>typee</find>
       <find>projec</find>
       <find>main</find>
+      <find>react</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,7 +240,7 @@
       <workItem from="1576412073905" duration="811000" />
       <workItem from="1576414586108" duration="20000" />
       <workItem from="1576414801719" duration="705000" />
-      <workItem from="1578140537296" duration="534000" />
+      <workItem from="1578140537296" duration="1062000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -253,13 +253,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91931000" />
+    <option name="totallyTimeSpent" value="92459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="23" width="840" height="972" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" weight="0.22710623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.22710623" />
       <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.120589785" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -437,15 +436,15 @@
     <entry file="file://$PROJECT_DIR$/randomquotemachine/src/index.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-704">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="717">
+          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="299" column="18" selection-start-line="299" selection-start-column="18" selection-end-line="299" selection-end-column="18" />
+        <state relative-caret-position="622">
+          <caret line="383" column="5" selection-start-line="383" selection-start-column="5" selection-end-line="383" selection-end-column="5" />
         </state>
       </provider>
     </entry>
