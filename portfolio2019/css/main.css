@@ -35,8 +35,6 @@ section {
 }
 
 
-
-
 #navbar {
     display: flex;
     justify-content: flex-end;
@@ -198,14 +196,10 @@ section {
 
 
 .main-content {
-
     display: flex;
     align-items: center;
     justify-content: center;
-    /*padding-left: 10%;*/
-    /*padding-right: 10%;*/
     padding-bottom: 10%;
-    /*flex: 1 1 80%;*/
 }
 
 .react-section{
@@ -218,67 +212,10 @@ section {
     justify-content: center;
 }
 
-
 .work {
     padding: 10px;
 }
 
-
-.portfolio {
-    display: grid;
-    height: 100%;
-    grid-template-rows: repeat(8, 1fr);
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 20px;
-}
-
-.portfolio a {
-    font-size: 1em;
-    color: ghostwhite;
-    padding: 15px;
-    margin: 20px;
-    font-weight: bolder;
-}
-
-.portfolio-item {
-    color: darkgrey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.5em;
-    background-size: cover;
-    background-position: top left;
-    transition: all ease-in-out 300ms;
-    position: relative;
-    z-index: 1;
-}
-
-
-
-.portfolio-item:hover {
-    text-shadow: 0 0 5px rgba(0, 0, 0, 0.65);
-    border: 3px solid darksalmon;
-
-}
-
-
-.portfolio-item::before {
-    content: '';
-    display: block;
-    background: darkgrey;
-    opacity: 0.8;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    transition: all ease-in-out 300ms;
-    z-index: -1;
-}
-
-.portfolio-item:hover::before {
-    opacity: 0.1;
-}
 
 
 #contactSection{
@@ -338,7 +275,6 @@ section {
 
 
 @media only screen
-and (max-width:60em)
 and (min-device-width : 375px)
 and (max-device-width : 812px)
 and (-webkit-device-pixel-ratio : 3)
@@ -353,7 +289,7 @@ and (orientation : portrait)
         height: 150px;
         flex-direction: column;
         justify-content: space-evenly;
-        padding: 15px;
+        /*padding: 15px;*/
         align-items: center;
         justify-items: center;
 
@@ -364,6 +300,7 @@ and (orientation : portrait)
         width: 100vw;
         height: 10px;
         flex-direction: column;
+        font-size: 1.5rem;
 
     }
 
@@ -375,26 +312,32 @@ and (orientation : portrait)
         text-align: center;
         align-items: center;
         height: 700px;
+        width: 100vw;
+        font-size: 1.5rem;
+
     }
 
     .container {
         flex-direction: column;
         height: 60vh;
-    }
+        width: 100vw;
+        font-size: 1.5rem;
 
+
+    }
 
     .main-content {
         display: flex;
         flex-wrap: wrap;
     }
 
-
     .project-container {
         display: flex;
         flex-direction: column;
         height: 75vh;
-    }
+        width: 100vw;
 
+    }
 
     .project {
         display: flex;
