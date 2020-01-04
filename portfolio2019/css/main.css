@@ -362,6 +362,10 @@ and (min-device-width : 375px)
 and (max-device-width : 812px)
 and (-webkit-device-pixel-ratio : 3)
 and (orientation : portrait){
+    body {
+        margin: 10px;
+        font-size: 1.5rem;
+    }
     #navbar{
         text-align: center;
         display: flex;
