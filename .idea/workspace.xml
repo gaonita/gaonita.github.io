@@ -2,201 +2,132 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio2019/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/circles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/circles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/circles.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/circles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/paper-full.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/paper-full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/bubbles.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/bubbles.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/clay.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/clay.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/confetti.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/confetti.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/corona.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/corona.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/dotted-spiral.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/dotted-spiral.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/flash-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/flash-1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/flash-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/flash-2.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/flash-3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/flash-3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/glimmer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/glimmer.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/moon.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/moon.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/pinwheel.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/pinwheel.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/piston-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/piston-1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/piston-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/piston-2.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/piston-3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/piston-3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/prism-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/prism-1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/prism-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/prism-2.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/prism-3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/prism-3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/splits.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/splits.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/squiggle.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/squiggle.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/strike.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/strike.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/suspension.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/suspension.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/timer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/timer.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/ufo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/ufo.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/veil.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/veil.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/wipe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/wipe.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patatap/sounds/zig-zag.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/zig-zag.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/.idea/airPollution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/airPollution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airPollution/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorgame/colorgame.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorgame/colorgame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorgame/colorgame.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/skel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/js/skel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordValidation/passwordstrength.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/passwordstrength.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordValidation/passwordstrength.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/passwordstrength.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordValidation/passwordstrength.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/passwordstrength.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordValidation/showhide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/showhide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemonTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/pokemonTable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/portfolio2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/portfolio2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/ballpixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/ballpixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/bigcodingme copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/bigcodingme copy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/clouldpixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/clouldpixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/codingGaon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/codingGaon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/cupPixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/cupPixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/frontme.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/frontme.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/gaon-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/gaon-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/gaon24.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/gaon24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/gaonvector.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/gaonvector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/musicnotePixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/musicnotePixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/padlockpixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/padlockpixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/palettePixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/palettePixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/pixelfavicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pixelfavicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/scooterme.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/scooterme.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/image/tshirtPixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/tshirtPixel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio2019/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/js/main.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1751931807">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="32" />
-          <entry key="project.open.time.0" value="24" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="bootstrap" value="1" />
-          <entry key="css" value="7" />
-          <entry key="html" value="22" />
-          <entry key="jpg" value="13" />
-          <entry key="js" value="15" />
-          <entry key="json" value="2" />
-          <entry key="png" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="7" />
-          <entry key="HTML" value="22" />
-          <entry key="Image" value="18" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="15" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="bootstrap" value="3" />
-          <entry key="css" value="3469" />
-          <entry key="html" value="3718" />
-          <entry key="js" value="475" />
-          <entry key="json" value="12" />
-          <entry key="txt" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="3469" />
-          <entry key="HTML" value="3718" />
-          <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="475" />
-          <entry key="PLAIN_TEXT" value="19" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="717">
-              <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="383" column="5" selection-start-line="383" selection-start-column="5" selection-end-line="383" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>a</find>
-      <find>typee</find>
-      <find>projec</find>
-      <find>main</find>
-      <find>react</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/makeImpact/index.html" />
-        <option value="$PROJECT_DIR$/makeImpact/css/makeimpact.css" />
-        <option value="$PROJECT_DIR$/makeImpact/package.json" />
-        <option value="$PROJECT_DIR$/makeImpact/js/makeimpact.js" />
-        <option value="$PROJECT_DIR$/makeimpact/src/App.js" />
-        <option value="$PROJECT_DIR$/makeimpact/src/makeimpact.js" />
-        <option value="$PROJECT_DIR$/passwordValidation/passwordstrength.html" />
-        <option value="$PROJECT_DIR$/Patatap/paper-full.js" />
-        <option value="$PROJECT_DIR$/Patatap/circles.html" />
-        <option value="$PROJECT_DIR$/Patatap/circles.css" />
-        <option value="$USER_HOME$/dotfiles/bootstrap" />
-        <option value="$PROJECT_DIR$/portfolio2019/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/portfolio2019/css/main.css" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
-    <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="972" />
-  </component>
+  <component name="ProjectId" id="1aX1rDy0unteYJB3L0yKWvbcBj4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gaonita.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaonita.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio2019" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/portfolio-react-app/src/Projects" />
+      <recent name="$PROJECT_DIR$/portfolio2019" />
+      <recent name="$PROJECT_DIR$/portfolio2019/image" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio2019/image" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/portfolio2019/image" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/passwordValidation" />
-      <recent name="$PROJECT_DIR$/colorgame" />
-      <recent name="$PROJECT_DIR$/makeimpact/js" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -240,7 +171,8 @@
       <workItem from="1576412073905" duration="811000" />
       <workItem from="1576414586108" duration="20000" />
       <workItem from="1576414801719" duration="705000" />
-      <workItem from="1578140537296" duration="1062000" />
+      <workItem from="1578140537296" duration="1595000" />
+      <workItem from="1586867321834" duration="7997000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -252,201 +184,37 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92459000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="840" y="23" width="840" height="972" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.22710623" />
-      <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.120589785" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3284091" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" visible="true" weight="0.20113637" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50030136" side_tool="true" weight="0.29489797" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" weight="0.1342812" />
-      <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.120589785" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3284091" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4996986" visible="true" weight="0.19702971" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50030136" side_tool="true" weight="0.29489797" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1" />
     <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/airPollution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colorgame/colorgame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colorgame/colorgame.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Exercise Files/Ch05/05_08/start/react-is-fun/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/package.json" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/src/App.test.js" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/.eslintrc.json" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/index.html" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/css/makeimpact.css" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/js/makeimpact.js" />
-    <entry file="file://$PROJECT_DIR$/makeimpact/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/colorgame/colorgame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passwordValidation/showhide.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pokemonTable.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/pic09.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/pic12.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/pic07.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/pic06.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/pic03.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/me.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/pic01.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/pic02.jpg" />
-    <entry file="file://$PROJECT_DIR$/old.html" />
-    <entry file="file://$PROJECT_DIR$/portfolio2019/image/assessment01.jpg" />
-    <entry file="file://$PROJECT_DIR$/portfolio2019/index.html" />
-    <entry file="file://$PROJECT_DIR$/css/images/overlay.png" />
-    <entry file="file://$PROJECT_DIR$/css/images/bg.jpg" />
-    <entry file="file://$PROJECT_DIR$/portfolio2019/image/assessment0112.jpg" />
-    <entry file="file://$PROJECT_DIR$/gallery.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio2019/image/gaon-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio2019/image/gaonvector.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patatap/circles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patatap/circles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="97" column="53" lean-forward="true" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patatap/paper-full.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio2019/image/pixil-frame-0.png" />
-    <entry file="file://$PROJECT_DIR$/portfolio2019/image/frontme.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/dotfiles/bootstrap">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="102" selection-start-line="47" selection-start-column="102" selection-end-line="47" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passwordValidation/passwordstrength.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passwordValidation/passwordstrength.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio2019/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomquotemachine/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio2019/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="383" column="5" selection-start-line="383" selection-start-column="5" selection-end-line="383" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586867785144">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586867785144" />
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom" timestamp="1586868497621">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497621" />
+    <state width="1659" height="262" key="GridCell.Tab.0.center" timestamp="1586868497619">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497619" />
+    <state width="1659" height="262" key="GridCell.Tab.0.left" timestamp="1586868497618">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497618" />
+    <state width="1659" height="262" key="GridCell.Tab.0.right" timestamp="1586868497619">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497619" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586889540491">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586889540491" />
   </component>
 </project>

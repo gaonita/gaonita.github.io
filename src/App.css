@@ -1,0 +1,282 @@
+
+
+a {
+    text-decoration: none;
+    font-size: 0.8em;
+}
+
+section {
+    width: 100vw;
+}
+
+#navbar {
+    display: flex;
+    justify-content: flex-end;
+    background: rgba(159, 194, 248, 0.07);
+    width: 100vw;
+    overflow: hidden;
+    z-index: 20;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -45px;
+}
+
+#navbar a {
+    padding: 10px;
+    margin: 3px;
+    color: #090913;
+}
+
+#navbar a:hover {
+    font-weight: bolder;
+    color: #14e47cbf;
+
+}
+
+
+.intro {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 50vh;
+    background: #f9f9f9;
+    padding-top: 20px;
+}
+
+.introImg {
+    margin: 20px;
+}
+
+.introHead {
+    color: #090913;
+    font-size: 1em;
+    width: 450px;
+}
+
+#profilepic {
+    max-width: 100%;
+    border-radius: 50px;
+}
+
+.introImg .tooltiptext {
+    visibility: hidden;
+    position: absolute;
+    margin-left: -50px;
+    width: 100px;
+    background-color: #14e47cbf ;
+    color: #4e4e50;
+    text-align: center;
+    border-radius: 20px;
+    border: solid 2px #14e47c;
+    padding: 5px 0;
+    z-index: 1;
+    font-size: 0.7em;
+}
+
+.introImg:hover .tooltiptext {
+    visibility: visible;
+}
+
+#scooterMe {
+    position: relative;
+    -webkit-animation: ride 4s infinite;
+    -webkit-animation-timing-function: ease-in;
+    -moz-animation-timing-function: ease-in;
+    -o-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+}
+
+@keyframes ride {
+    from {left: -500px;}
+    to{left:100%;}
+}
+
+#scooterMe:hover {
+    animation-play-state: paused;
+}
+
+.container{
+    height: 50vh;
+    background-color: #090913;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contacts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /*background-color: red;*/
+    width: 100vh;
+}
+
+
+#projects{
+    padding-top: 50px;
+    background: snow;
+    font-family: 'Press Start 2P', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-headline {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;
+    color: #090913;
+}
+
+
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10%;
+}
+
+.react-section{
+    border: 3px solid black;
+}
+
+.main-content a:hover {
+    border-bottom: dashed 10px #090913;
+    align-items: center;
+    justify-content: center;
+}
+
+.work {
+    padding: 10px;
+}
+
+
+
+
+
+@media only screen
+and (max-width: 60em)
+{
+    #navbar{
+        text-align: center;
+        display: flex;
+        width: 100vw;
+        height: 150px;
+        flex-direction: column;
+        justify-content: space-evenly;
+        /*padding: 15px;*/
+        align-items: center;
+        justify-items: center;
+
+    }
+
+    .navitem{
+        display: flex;
+        width: 100vw;
+        height: 10px;
+        flex-direction: column;
+
+    }
+
+    .intro {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        align-items: center;
+        height: 700px;
+        width: 100vw;
+        font-size: 1.5rem;
+
+    }
+
+    /*.container {*/
+    /*    flex-direction: column;*/
+    /*    height: 60vh;*/
+    /*    width: 100vw;*/
+    /*}*/
+
+    .main-content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .project-container {
+        display: flex;
+        flex-direction: column;
+        height: 75vh;
+        width: 100vw;
+
+    }
+
+    .project {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .project-pic {
+        width: 70vw;
+    }
+
+    .contact {
+        display: flex;
+        width: 100vw;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .contact-details {
+        display: flex;
+        width: 100vw;
+        flex-direction: column;
+        justify-content: space-evenly;
+
+    }
+}
+
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3)
+and (orientation : portrait){
+    body {
+        margin: 10px;
+        font-size: 1.5rem;
+    }
+    #navbar{
+        text-align: center;
+        display: flex;
+        width: 100vw;
+        height: 150px;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        justify-items: center;
+    }
+
+    .navitem{
+        display: flex;
+        width: 100vw;
+        height: 10px;
+        flex-direction: column;
+        font-size: 1.5rem;
+    }
+}
+
+
+
+.reactTitle {
+    text-align: center;
+}
