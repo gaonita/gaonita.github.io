@@ -2,90 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nav/Nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/circles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/circles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/circles.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/circles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/paper-full.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/paper-full.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/bubbles.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/bubbles.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/clay.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/clay.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/confetti.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/confetti.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/corona.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/corona.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/dotted-spiral.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/dotted-spiral.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/flash-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/flash-1.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/flash-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/flash-2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/flash-3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/flash-3.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/glimmer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/glimmer.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/moon.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/moon.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/pinwheel.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/pinwheel.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/piston-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/piston-1.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/piston-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/piston-2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/piston-3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/piston-3.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/prism-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/prism-1.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/prism-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/prism-2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/prism-3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/prism-3.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/splits.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/splits.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/squiggle.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/squiggle.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/strike.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/strike.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/suspension.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/suspension.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/timer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/timer.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/ufo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/ufo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/veil.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/veil.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/wipe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/wipe.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patatap/sounds/zig-zag.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Patatap/sounds/zig-zag.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/.idea/airPollution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/airPollution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airPollution/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/airPollution/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colorgame/colorgame.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colorgame/colorgame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colorgame/colorgame.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/skel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/js/skel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordValidation/passwordstrength.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/passwordstrength.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordValidation/passwordstrength.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/passwordstrength.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordValidation/passwordstrength.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/passwordstrength.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordValidation/showhide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/passwordValidation/showhide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemonTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/pokemonTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/portfolio2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/portfolio2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/ballpixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/ballpixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/bigcodingme copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/bigcodingme copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/clouldpixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/clouldpixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/codingGaon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/codingGaon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/cupPixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/cupPixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/frontme.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/frontme.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/gaon-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/gaon-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/gaon24.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/gaon24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/gaonvector.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/gaonvector.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/musicnotePixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/musicnotePixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/padlockpixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/padlockpixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/palettePixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/palettePixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/pixelfavicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pixelfavicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/scooterme.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/scooterme.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/image/tshirtPixel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/tshirtPixel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio2019/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +93,7 @@
       <workItem from="1576414586108" duration="20000" />
       <workItem from="1576414801719" duration="705000" />
       <workItem from="1578140537296" duration="1595000" />
-      <workItem from="1586867321834" duration="7997000" />
+      <workItem from="1586867321834" duration="8628000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
