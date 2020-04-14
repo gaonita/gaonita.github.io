@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="" />
+    <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +90,7 @@
       <workItem from="1576414586108" duration="20000" />
       <workItem from="1576414801719" duration="705000" />
       <workItem from="1578140537296" duration="1595000" />
-      <workItem from="1586867321834" duration="8915000" />
+      <workItem from="1586867321834" duration="9265000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -107,6 +110,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="578" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586894077075">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="335" key="#com.intellij.fileTypes.FileTypeChooser/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586894077075" />
     <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586867785144">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
