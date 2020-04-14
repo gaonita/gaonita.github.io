@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.923a8ba083facd0216b708b688f3ba2c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.24757139.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.24757139.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.a12035ae.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.a12035ae.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.a12035ae.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.78601ac7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.78601ac7.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.2e526471.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.2e526471.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +51,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/portfolio-react-app/src/Projects" />
       <recent name="$PROJECT_DIR$/portfolio2019" />
       <recent name="$PROJECT_DIR$/portfolio2019/image" />
@@ -90,7 +104,7 @@
       <workItem from="1576414586108" duration="20000" />
       <workItem from="1576414801719" duration="705000" />
       <workItem from="1578140537296" duration="1595000" />
-      <workItem from="1586867321834" duration="9265000" />
+      <workItem from="1586867321834" duration="9790000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
