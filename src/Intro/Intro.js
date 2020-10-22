@@ -10,7 +10,7 @@ const Intro = () => {
             <div className="intro">
                 <div className="introImg">
                  <span className="tooltiptext">
-                Hi there!<br/>안녕하세요?
+                Hi there!
                  </span>
                     <img id="profilepic" src={require('../assets/images/bigcodingme copy.png')} alt={'gaon'}/>
                 </div>

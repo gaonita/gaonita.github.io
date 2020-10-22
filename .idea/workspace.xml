@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/precache-manifest.923a8ba083facd0216b708b688f3ba2c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.24757139.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.24757139.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.a12035ae.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.a12035ae.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.a12035ae.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.78601ac7.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.78601ac7.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.2e526471.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.2e526471.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +18,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -46,8 +33,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,6 +49,7 @@
       <recent name="$PROJECT_DIR$/portfolio2019/image" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -104,7 +93,8 @@
       <workItem from="1576414586108" duration="20000" />
       <workItem from="1576414801719" duration="705000" />
       <workItem from="1578140537296" duration="1595000" />
-      <workItem from="1586867321834" duration="9790000" />
+      <workItem from="1586867321834" duration="10971000" />
+      <workItem from="1603364870486" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -117,40 +107,20 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1" />
     <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586894077075">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="-1592" y="376" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603365071246">
+      <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="578" y="335" key="#com.intellij.fileTypes.FileTypeChooser/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586894077075" />
-    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586867785144">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state x="-1592" y="376" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1603365071246" />
+    <state x="-1547" y="352" key="SettingsEditor" timestamp="1603365012397">
+      <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586867785144" />
-    <state width="1659" height="262" key="GridCell.Tab.0.bottom" timestamp="1586868497621">
-      <screen x="0" y="23" width="1680" height="974" />
-    </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497621" />
-    <state width="1659" height="262" key="GridCell.Tab.0.center" timestamp="1586868497619">
-      <screen x="0" y="23" width="1680" height="974" />
-    </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497619" />
-    <state width="1659" height="262" key="GridCell.Tab.0.left" timestamp="1586868497618">
-      <screen x="0" y="23" width="1680" height="974" />
-    </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497618" />
-    <state width="1659" height="262" key="GridCell.Tab.0.right" timestamp="1586868497619">
-      <screen x="0" y="23" width="1680" height="974" />
-    </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1586868497619" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586889540491">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586889540491" />
+    <state x="-1547" y="352" key="SettingsEditor/0.23.1680.1027/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1603365012397" />
   </component>
 </project>
