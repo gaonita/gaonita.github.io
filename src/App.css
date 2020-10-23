@@ -1,13 +1,12 @@
-
-
+.App {
+    background-color: black;
+    height: 100vh;
+}
 a {
     text-decoration: none;
     font-size: 0.8em;
 }
 
-section {
-    width: 100vw;
-}
 
 #navbar {
     display: flex;
@@ -23,7 +22,7 @@ section {
     top: 0;
 }
 
-#logo{
+#logo {
     width: 50px;
     height: 50px;
     margin-bottom: -45px;
@@ -41,13 +40,12 @@ section {
 
 }
 
-
 .intro {
     display: flex;
     align-items: center;
     align-content: center;
     justify-content: center;
-    height: 50vh;
+    height: 30vh;
     background: #f9f9f9;
     padding-top: 20px;
 }
@@ -72,14 +70,14 @@ section {
     position: absolute;
     margin-left: -50px;
     width: 100px;
-    background-color: #14e47cbf ;
+    background-color: #14e47cbf;
     color: #4e4e50;
     text-align: center;
     border-radius: 20px;
     border: solid 2px #14e47c;
     padding: 5px 0;
     z-index: 1;
-    font-size: 0.7em;
+    font-size: 1em;
 }
 
 .introImg:hover .tooltiptext {
@@ -96,48 +94,33 @@ section {
 }
 
 @keyframes ride {
-    from {left: -500px;}
-    to{left:100%;}
+    from {
+        left: -500px;
+    }
+    to {
+        left: 100%;
+    }
 }
 
 #scooterMe:hover {
     animation-play-state: paused;
 }
 
-.container{
-    height: 50vh;
+.footer {
+    height: 30vh;
     background-color: #090913;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.contacts{
+.contacts {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     /*background-color: red;*/
     width: 100vh;
 }
-
-
-#projects{
-    padding-top: 50px;
-    background: snow;
-    font-family: 'Press Start 2P', sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.project-headline {
-    font-size: 1.3em;
-    font-weight: bold;
-    text-align: center;
-    color: #090913;
-}
-
 
 .main-content {
     display: flex;
@@ -146,7 +129,7 @@ section {
     padding-bottom: 10%;
 }
 
-.react-section{
+.react-section {
     border: 3px solid black;
 }
 
@@ -156,18 +139,33 @@ section {
     justify-content: center;
 }
 
-.work {
-    padding: 10px;
+.workSection {
+    display: flex;
+    padding: 30px;
+    align-content: center;
+    justify-content: space-evenly;
+    height: 20vh;
+    background-color: #fafafa;
+}
+
+.projectBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    /*border: 1px solid black;*/
 }
 
 
-
-
+.projectText {
+ margin: 10px;
+    width: 60%;
+    /*border: 1px solid black;*/
+}
 
 @media only screen
-and (max-width: 60em)
-{
-    #navbar{
+and (max-width: 60em) {
+    #navbar {
         text-align: center;
         display: flex;
         width: 100vw;
@@ -180,7 +178,7 @@ and (max-width: 60em)
 
     }
 
-    .navitem{
+    .navitem {
         display: flex;
         width: 100vw;
         height: 10px;
@@ -195,38 +193,14 @@ and (max-width: 60em)
         align-content: center;
         text-align: center;
         align-items: center;
-        height: 700px;
+        height: 300px;
         width: 100vw;
         font-size: 1.5rem;
 
     }
-
-    /*.container {*/
-    /*    flex-direction: column;*/
-    /*    height: 60vh;*/
-    /*    width: 100vw;*/
-    /*}*/
-
     .main-content {
         display: flex;
         flex-wrap: wrap;
-    }
-
-    .project-container {
-        display: flex;
-        flex-direction: column;
-        height: 75vh;
-        width: 100vw;
-
-    }
-
-    .project {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .project-pic {
-        width: 70vw;
     }
 
     .contact {
@@ -243,19 +217,27 @@ and (max-width: 60em)
         justify-content: space-evenly;
 
     }
+    .workSection {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width:100vw;
+        height: 500px;
+    }
 }
 
 
 @media only screen
-and (min-device-width : 375px)
-and (max-device-width : 812px)
-and (-webkit-device-pixel-ratio : 3)
-and (orientation : portrait){
+and (min-device-width: 375px)
+and (max-device-width: 812px)
+and (-webkit-device-pixel-ratio: 3)
+and (orientation: portrait) {
     body {
         margin: 10px;
         font-size: 1.5rem;
     }
-    #navbar{
+
+    #navbar {
         text-align: center;
         display: flex;
         width: 100vw;
@@ -266,7 +248,7 @@ and (orientation : portrait){
         justify-items: center;
     }
 
-    .navitem{
+    .navitem {
         display: flex;
         width: 100vw;
         height: 10px;
@@ -274,7 +256,6 @@ and (orientation : portrait){
         font-size: 1.5rem;
     }
 }
-
 
 
 .reactTitle {
