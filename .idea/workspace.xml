@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectBox/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectBox/projectBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/work/Work.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/work/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +94,7 @@
       <workItem from="1586867321834" duration="10971000" />
       <workItem from="1603364870486" duration="719000" />
       <workItem from="1603365709086" duration="1561000" />
-      <workItem from="1603375299913" duration="9724000" />
+      <workItem from="1603375299913" duration="11027000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
