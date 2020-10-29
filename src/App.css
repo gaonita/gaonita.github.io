@@ -1,5 +1,5 @@
 .App {
-    background-color: black;
+    background-color: #090913;
     height: 100vh;
 }
 a {
@@ -10,8 +10,8 @@ a {
 
 #navbar {
     display: flex;
-    justify-content: flex-end;
-    background: rgba(159, 194, 248, 0.07);
+    justify-content: flex-start;
+    background-color: #090913;
     width: 100vw;
     overflow: hidden;
     z-index: 20;
@@ -22,21 +22,21 @@ a {
     top: 0;
 }
 
-#logo {
-    width: 50px;
-    height: 50px;
-    margin-bottom: -45px;
-}
+/*#logo {*/
+/*    width: 50px;*/
+/*    height: 50px;*/
+/*    margin-bottom: -45px;*/
+/*}*/
 
-#navbar a {
+#navbar h4 {
     padding: 10px;
     margin: 3px;
-    color: #090913;
+    color: #fafafa;
 }
 
-#navbar a:hover {
+#navbar h4:hover {
     font-weight: bolder;
-    color: #14e47cbf;
+    color: #f6a4a4;
 
 }
 
@@ -153,6 +153,7 @@ a {
     align-items: center;
     justify-content: center;
     width: 50vw;
+    text-decoration: none;
     /*border: 1px solid black;*/
 }
 
@@ -160,6 +161,8 @@ a {
 .projectText {
  margin: 10px;
     width: 60%;
+    text-decoration: none;
+    color:#000000;
     /*border: 1px solid black;*/
 }
 

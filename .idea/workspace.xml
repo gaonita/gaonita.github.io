@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/colorgame/colorgame.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/colorgame/colorgame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/colorgame/colorgame.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/colorgame/colorgame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/portfolio2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/portfolio2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/work/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/work/Work.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,20 +40,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/portfolio2019/image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/portfolio-react-app/src/Projects" />
       <recent name="$PROJECT_DIR$/portfolio2019" />
-      <recent name="$PROJECT_DIR$/portfolio2019/image" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/portfolio2019/image" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,7 +104,7 @@
       <workItem from="1586867321834" duration="10971000" />
       <workItem from="1603364870486" duration="719000" />
       <workItem from="1603365709086" duration="1561000" />
-      <workItem from="1603375299913" duration="12080000" />
+      <workItem from="1603375299913" duration="15273000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -152,10 +160,15 @@
     </state>
     <state width="1094" height="378" key="GridCell.Tab.0.right/0.23.1680.1027/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1603366973075" />
     <state width="854" height="279" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603987628721" />
-    <state x="350" y="100" width="1175" height="913" key="SettingsEditor" timestamp="1603376711667">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="350" y="121" width="1175" height="913" key="SettingsEditor" timestamp="1603993434360">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="350" y="100" width="1175" height="913" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1603376711667" />
     <state x="-1547" y="352" key="SettingsEditor/0.23.1680.1027/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1603365751734" />
+    <state x="350" y="121" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1603993434360" />
+    <state x="868" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1603994671408">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="868" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603994671408" />
   </component>
 </project>

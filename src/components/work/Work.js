@@ -13,12 +13,12 @@ const Work = () => {
 
             <ProjectBox title={"Password Generator"}
                         projectPath={"https://randompwgenerator.netlify.app"}
-                        description={"random password generate machine."}
+                        description={"React"}
                         imgPath={require('../../assets/images/padlockpixel.png')}
             />
-            <ProjectBox title={"Guess RGB Value"}
-                        projectPath={"https://cafe-8de15.firebaseapp.com/"}
-                        description={"Simple Guessing Game"}
+            <ProjectBox title={"RGB Game"}
+                        projectPath={process.env.PUBLIC_URL + "/colorgame/colorgame.html"}
+                        description={"HTML CSS JS"}
                         imgPath={require('../../assets/images/palettePixel.png')}
             />
         </div>
