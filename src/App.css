@@ -1,87 +1,18 @@
-.App {
-    background-color: #090913;
-    height: 100vh;
-}
+
 a {
     text-decoration: none;
     font-size: 0.8em;
 }
 
 
-#navbar {
-    display: flex;
-    justify-content: flex-start;
-    background-color: #090913;
-    width: 100vw;
-    overflow: hidden;
-    z-index: 20;
-}
-
 .sticky {
     position: fixed;
     top: 0;
 }
 
-/*#logo {*/
-/*    width: 50px;*/
-/*    height: 50px;*/
-/*    margin-bottom: -45px;*/
-/*}*/
-
-#navbar h4 {
-    padding: 10px;
-    margin: 3px;
-    color: #fafafa;
-}
-
-#navbar h4:hover {
-    font-weight: bolder;
-    color: #f6a4a4;
-
-}
-
-.intro {
-    display: flex;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    height: 30vh;
-    background: #f9f9f9;
-    padding-top: 20px;
-}
-
-.introImg {
-    margin: 20px;
-}
-
-.introHead {
-    color: #090913;
-    font-size: 1em;
-    width: 450px;
-}
-
 #profilepic {
     max-width: 100%;
     border-radius: 50px;
-}
-
-.introImg .tooltiptext {
-    visibility: hidden;
-    position: absolute;
-    margin-left: -50px;
-    width: 100px;
-    background-color: #14e47cbf;
-    color: #4e4e50;
-    text-align: center;
-    border-radius: 20px;
-    border: solid 2px #14e47c;
-    padding: 5px 0;
-    z-index: 1;
-    font-size: 1em;
-}
-
-.introImg:hover .tooltiptext {
-    visibility: visible;
 }
 
 #scooterMe {
@@ -144,8 +75,8 @@ a {
     padding: 30px;
     align-content: center;
     justify-content: space-evenly;
-    height: 20vh;
-    background-color: #fafafa;
+    height: 50vh;
+    /*background-color: #fafafa;*/
 }
 
 .projectBox {

@@ -2,7 +2,7 @@ import React from 'react';
 
 const ProjectBox = (props) => {
     return (
-            <a target={"_blank"} href={props.projectPath} className={"projectBox"}>
+            <a  href={props.projectPath} className={"projectBox"} target="_blank">
                 <div className="projectImg">
                     <img id="projectImage" height={"100"} src={props.imgPath} alt={'projectImg'}/>
                 </div>
