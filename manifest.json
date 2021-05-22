@@ -1,8 +1,8 @@
 {
-  "short_name": "Gaon's React App",
+  "short_name": "Gaon React App",
   "name": "Gaon",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#c6c6c6"
 }
