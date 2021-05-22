@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Nav/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nav/Nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projectBox/projectBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projectBox/projectBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/work/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/work/Work.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
