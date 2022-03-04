@@ -6,7 +6,7 @@ const ProjectBox = (props) => {
                 <div className="projectImg">
                     <img id="projectImage" height={"100"} src={props.imgPath} alt={'projectImg'}/>
                 </div>
-                <div className="projectText">
+                <div className="projectText" style={{color:props.titleColor}}>
                     <h2>{props.title}</h2>
                     <h3>{props.description}</h3>
                 </div>

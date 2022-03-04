@@ -28,7 +28,7 @@ projectText: {
 },
 
 })
-const Work = () => {
+const Work = ({theme}) => {
     const [isComplete, setIsComplete] = useState(false);
     const classes = useStyle();
     const controls = useAnimation();
@@ -56,31 +56,34 @@ const Work = () => {
 
     return (
         <div className="workSection">
-            <motion.div transition={appear}
-                        style={{
-                            display: 'flex',
-                            flexDirection: 'column',
-                            alignItems: 'center',
-                            justifyContent: 'center'
-                        }}
-                        initial={'hidden'}
-                        variants={{
-                            'visible': {x: "-1em", opacity: 1},
-                            'hidden': {x: "-5em", opacity: 0},
-                        }}
-                        animate={controls}>
+            {/*<motion.div transition={appear}*/}
+            {/*            style={{*/}
+            {/*                display: 'flex',*/}
+            {/*                flexDirection: 'column',*/}
+            {/*                alignItems: 'center',*/}
+            {/*                justifyContent: 'center'*/}
+            {/*            }}*/}
+            {/*            initial={'hidden'}*/}
+            {/*            variants={{*/}
+            {/*                'visible': {x: "-1em", opacity: 1},*/}
+            {/*                'hidden': {x: "-5em", opacity: 0},*/}
+            {/*            }}*/}
+            {/*            animate={controls}>*/}
                 <ProjectBox title={"Stockholm Cafe Review"}
+                            titleColor={theme.color}
                             projectPath={"https://cafe-8de15.firebaseapp.com/"}
                             description={"React Redux Firebase"}
                             imgPath={require('../../assets/images/cupPixel.png')}
                 />
-            </motion.div>
+            {/*</motion.div>*/}
             <ProjectBox title={"Password Generator"}
+                        titleColor={theme.color}
                         projectPath={"https://randompwgenerator.netlify.app"}
                         description={"React"}
                         imgPath={require('../../assets/images/padlockpixel.png')}
             />
             <ProjectBox title={"RGB Game"}
+                        titleColor={theme.color}
                         projectPath={process.env.PUBLIC_URL + "/colorgame/colorgame.html"}
                         description={"HTML CSS JS"}
                         imgPath={require('../../assets/images/palettePixel.png')}

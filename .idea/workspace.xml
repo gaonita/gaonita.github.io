@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e95bbd9-340c-4c8b-9ed3-2ac1b44e19b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Intro/intro.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThemeProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toggle/Toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toggle/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toggle/toggle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,15 +59,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/portfolio2019/image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/portfolio-react-app/src/Projects" />
-      <recent name="$PROJECT_DIR$/portfolio2019" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +127,7 @@
       <workItem from="1614459465245" duration="15000" />
       <workItem from="1614964126188" duration="847000" />
       <workItem from="1616934195527" duration="6062000" />
+      <workItem from="1621885206507" duration="12494000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1549737952782</created>
@@ -132,17 +148,5 @@
     </ignored-roots>
     <MESSAGE value="v1" />
     <option name="LAST_COMMIT_MESSAGE" value="v1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/build/static/js/2.0785a73d.chunk.js</url>
-          <line>1</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

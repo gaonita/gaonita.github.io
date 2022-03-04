@@ -1,0 +1,12 @@
+.star{
+    animation: fall 5s infinite;
+}
+
+@keyframes fall {
+    0%{
+        transform: translate3d(10em, 0,0);
+    }
+    100%{
+        transform: translate3d(-50em,100em, 100px);
+    }
+}
