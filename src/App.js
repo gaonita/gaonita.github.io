@@ -1,7 +1,7 @@
 import React, {useContext, useState} from 'react';
 import './App.css';
 import Intro from "./Intro/Intro";
-import Work from "./components/work";
+import Work from "../src/components/work/Work";
 import Footer from "./components/footer/footer";
 import Navbar from "./Nav";
 import {ThemeContext, ThemeProvider, themes} from "./ThemeProvider";

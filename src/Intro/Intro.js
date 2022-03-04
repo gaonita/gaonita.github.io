@@ -116,7 +116,7 @@ const Intro = ({theme}) => {
                             }}
                             animate={controls}>
                     <div className={classes.introImg}>
-                        <img id="profilepic" src={require('../assets/images/bigcodingme copy.png')} alt={'gaon'}/>
+                        <img id="profilepic" src={require('../assets/images/bigcodingme.png')} alt={'gaon'}/>
                         <span className="tooltiptext" style={{color: theme.color}}>Hi there!</span>
                     </div>
                     <div className={classes.introText}>

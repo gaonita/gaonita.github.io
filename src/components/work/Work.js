@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import ProjectBox from "../projectBox";
+import ProjectBox from "../projectBox/projectBox";
 import {motion, useTransform, useViewportScroll, useAnimation} from "framer-motion";
 import {makeStyles} from "@material-ui/styles";
 
